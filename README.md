@@ -5,10 +5,10 @@ Media & Social Issues
 CGS 2821: Intro to Web Design
 
 ### Assignment Date:  
-09/29/17
+10/30/17
 
 ### Student Name:  
 Jonathan Garcia
 
 ### View Project:
- https://jfg16.github.io/lesson07_navbar/
+https://jfg16.github.io/L12_bootstrap/
